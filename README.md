@@ -15,8 +15,9 @@ Timeline:
     - Week 1: write proposal 
     - Week 2: figure out motions of project, working on the array, and flying from one side to the other and looping back around 
     - Week 3: the snow falling and finding the music, making the presents fall 
-    - Week 4: adjust the music and make sure the code can run without issues
-    - Week 5: present 
+    
+   Week 4: adjust the music and make sure the code can run without issues
+   -Week 5: present 
     
 
 ******
@@ -39,7 +40,11 @@ I anticipate getting the lights to work alongside the music will be the most cha
 
 Timeline: 
 Week 1: proposal & finding multiple reference videos to work with 
+
 Week 2: build the basics of the code to make sure a simple light will work 
+
 Week 3: time out the music and figure out when each light would need to go off 
+
 Week 4: test and make sure each light works and the code is working properly 
+
 Week 5: present 
