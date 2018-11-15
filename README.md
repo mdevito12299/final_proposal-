@@ -12,15 +12,17 @@ Challenges:
     - I think having Santa fly and wave, having a present fall each time the mouse is clicked and making sure each song was different, using the array  will be challenging to do. 
 
 Timeline: 
-    - Week 1: write proposal 
+    - Week 1: write proposal
+    
     - Week 2: figure out motions of project, working on the array, and flying from one side to the other and looping back around 
+    
     - Week 3: the snow falling and finding the music, making the presents fall 
     
-   Week 4: adjust the music and make sure the code can run without issues
+  - Week 4: adjust the music and make sure the code can run without issues
+  
    -Week 5: present 
     
-
-******
+****
 
 Final Proposal idea 2 (using the ardunio- possibly?) 
 
