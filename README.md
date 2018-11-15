@@ -18,7 +18,9 @@ Timeline:
     - Week 4: adjust the music and make sure the code can run without issues
     - Week 5: present 
     
-    
+
+******
+
 Final Proposal idea 2 (using the ardunio- possibly?) 
 
 Chirstmas but you can see real lights not just code 
