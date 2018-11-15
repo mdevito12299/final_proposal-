@@ -18,3 +18,25 @@ Timeline:
     - Week 5: present 
     
     
+Final Proposal idea 2 (using the ardunio- possibly?) 
+
+Chirstmas but you can see real lights not just code 
+
+Summary: 
+My idea for this code is to have LED lights attached to the ardunio that will light up in sync with a christmas song that will be playing from the computer. These lights will be in a pattern in tune with the song.   
+
+Components: 
+An output device (mainly a computer) 
+A censor (input) 
+Ardunio board
+
+Challenges: 
+I anticipate getting the lights to work alongside the music will be the most challenging part, and I will have to figure out each speed of the lights in tune with the chosen song. I have found some references to use in case things become complicated. 
+
+
+Timeline: 
+Week 1: proposal & finding multiple reference videos to work with 
+Week 2: build the basics of the code to make sure a simple light will work 
+Week 3: time out the music and figure out when each light would need to go off 
+Week 4: test and make sure each light works and the code is working properly 
+Week 5: present 
